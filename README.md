@@ -109,8 +109,9 @@ If you reuse any of the code in your own projects, be mindful of licensing and d
 ---
 
 ## Contact
-GitHub: [Your GitHub Profile](https://github.com/Klajdi2004)
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/klajdi-dhana/)
+
+GitHub: [Klajdi2004](https://github.com/Klajdi2004)
+LinkedIn: [Klajdi Dhana](https://www.linkedin.com/in/klajdi-dhana/)
 Email: klajdi.dhana1@gmail.com
 
 Feel free to reach out if you have any questions or want to connect!
