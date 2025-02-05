@@ -1,6 +1,6 @@
 # The Complete Full-Stack Web Development Bootcamp Projects
 
-This repository contains all the projects, exercises, and practice files I have completed as part of [*The Complete Full-Stack Web Development Bootcamp*](https://www.udemy.com/course/the-complete-full-stack-web-development-bootcamp/) on Udemy.
+This repository contains all the projects, exercises, and practice files I have completed as part of [*The Complete Web Development Bootcamp*](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST5MT020225CROW) on Udemy.
 
 The goal of this repository is to document my progress, showcase the concepts I've learned, and provide a reference for future use or additional learning. Each folder corresponds to a different section, chapter, or topic in the course and may include its own README or instructions.
 
