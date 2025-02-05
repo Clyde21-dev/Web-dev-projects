@@ -18,13 +18,13 @@ The goal of this repository is to document my progress, showcase the concepts I'
 
 ## About the Course
 
-[*The Complete Full-Stack Web Development Bootcamp*](https://www.udemy.com/course/the-complete-full-stack-web-development-bootcamp/) is designed to teach full-stack web development from the ground up, covering front-end fundamentals, back-end essentials, database management, and deployment.
+[*The Complete Web Development Bootcamp*](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST5MT020225CROW) is a comprehensive course designed to teach web development from the ground up, covering front-end fundamentals, back-end essentials, database management, and deployment.
 
 Throughout the course, I will be working with:
 - **Front-End**: HTML5, CSS3, Bootstrap, JavaScript, React, etc.
-- **Back-End**: Node.js, Express, and other frameworks.
+- **Back-End**: Node.js, Express.js, and other frameworks.
 - **Databases**: MongoDB, SQL, or other database technologies.
-- **Additional Topics**: Git, version control, cloud hosting, best practices, etc.
+- **Additional Topics**: Git, version control, APIs, and much more.
 
 ---
 
@@ -32,24 +32,26 @@ Throughout the course, I will be working with:
 
 Below is a summary of the projects included in this repo:
 
-| Project / Exercise                          | Description                                               | Tech Stack                                      |
-|--------------------------------------------|-----------------------------------------------------------|-------------------------------------------------|
-| **1. Intro to HTML & CSS**                 | Simple static web pages, exploring basic HTML & CSS.      | HTML5, CSS3                                     |
-| **2. JavaScript Basics**                   | Exercises on variables, functions, arrays, objects, etc.  | JavaScript                                      |
-| **3. Node.js & Express**                   | Building RESTful APIs, handling routes, etc.             | Node.js, Express, EJS                          |
-| **4. MongoDB & Mongoose**                  | Database integration with CRUD operations.               | MongoDB, Mongoose                              |
-| **5. React Fundamentals**                  | Interactive front-ends, state management, props.          | React, Node.js                                 |
-| **6. Full-Stack Projects**                 | End-to-end applications (MERN stack).                     | MongoDB, Express, React, Node.js               |
-| ...                                        | More sections as I progress through the course.           | Various                                        |
+| Project / Exercise          | Description                                                    | Tech Stack                      |
+|-----------------------------|----------------------------------------------------------------|---------------------------------|
+| **1. Basic HTML & CSS**     | Simple static web pages exploring fundamental HTML & CSS.      | HTML5, CSS3                     |
+| **2. JavaScript Basics**    | Exercises on variables, functions, arrays, objects, etc.       | JavaScript                      |
+| **3. DOM Manipulation**     | Interactive web pages: manipulating the Document Object Model. | HTML, CSS, JavaScript           |
+| **4. Node.js & Express**    | Basic RESTful APIs, routing, and server-side rendering.        | Node.js, Express                |
+| **5. EJS Templates**        | Dynamic pages using Embedded JavaScript templating.            | EJS, Express, Node.js           |
+| **6. MongoDB & Mongoose**   | Database integration, CRUD operations, and data modeling.      | MongoDB, Mongoose, Node.js      |
+| **7. APIs & Authentication**| Working with external APIs and user authentication workflows.  | Node.js, Express, Passport.js   |
+| **8. React Fundamentals**   | Building reactive front-ends with components and props.        | React, Node.js                  |
+| **9. Full-Stack Projects**  | Combining front-end and back-end in MERN stack apps.           | MongoDB, Express, React, Node.js|
 
-Each folder will contain the specific code, resources, and a mini-README (when needed) explaining how to run or use that project.
+Each folder contains the code, resources, and a mini-README (when needed) explaining how to run or use that project.
 
 ---
 
 ## Technologies & Tools
 
-- **Programming Languages**: JavaScript, HTML, CSS
-- **Frameworks & Libraries**: Node.js, Express.js, React.js, Bootstrap, EJS
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks & Libraries**: Node.js, Express, React, Bootstrap, EJS
 - **Databases**: MongoDB (with Mongoose), possibly SQL
 - **Tools & Services**: Git, GitHub, VS Code, npm, etc.
 
@@ -59,31 +61,36 @@ Each folder will contain the specific code, resources, and a mini-README (when n
 
 The repo is organized by sections or projects:
 
-├── Project-1-HTML-CSS
+├── Project-1-Basic-HTML-CSS
 │   ├── index.html
 │   ├── style.css
 │   ├── README.md
 │   ...
-├── Project-2-JavaScript
+├── Project-2-JavaScript-Basics
 │   ├── app.js
 │   ├── README.md
 │   ...
-├── Project-3-Node-Express
+├── Project-3-DOM-Manipulation
+│   ├── index.html
+│   ├── script.js
+│   ├── README.md
+│   ...
+├── Project-4-Node-Express
 │   ├── app.js
 │   ├── package.json
 │   ├── README.md
 │   ...
-├── Project-4-MongoDB
+├── Project-5-EJS-Templates
 │   ├── app.js
 │   ├── README.md
 │   ...
-└── ...
+...
 
 Each project or section may include:
 
-README.md: Explanation, usage guide, and notes.
-Source Files: HTML, CSS, JS files, React components, or Node.js scripts.
-Package Files: package.json to manage dependencies (Node.js projects).
+README.md: Explanation, usage, and notes.
+Source Files: HTML, CSS, JS files, React components, Node.js scripts, etc.
+Package Files: package.json to manage dependencies (for Node.js projects).
 Additional Config Files: .env, .gitignore, etc. (if required).
 
 ---
