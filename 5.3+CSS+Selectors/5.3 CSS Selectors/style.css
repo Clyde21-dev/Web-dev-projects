@@ -5,3 +5,28 @@ ol {
 }
 
 /* Write your CSS below, don't change the rules above. */
+
+/* 1. Select all <h2> elements and set their color to red */
+ p {
+  color: red;
+}
+
+/* 2. Select all elements with a class of "note" and set their font size to 20px */
+li .note {
+  font-size: 20px;
+}
+
+/* 3. Select the element with an id of "id-selector-demo" and set its color to green */
+#id-selector-demo {
+  color: green;
+}
+
+/* 4. Select the <li> elements that have the "value" attribute set to "4" and set their color to blue */
+li[value="4"] {
+  color: blue;
+}
+
+/* 5. Set all elements to have "text-align: center"  */
+* {
+  text-align: center ;
+}
